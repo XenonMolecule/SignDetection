@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2021-02-06</Date>
+			<Time>15:17:43.5760617-05:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Project-Michael2.xef</Clip>
+			<StartFrame>11333</StartFrame>
+			<EndFrame>11981</EndFrame>
+			<ID>f0f03ecb-a9f9-478d-8fd8-b06a60d852c1</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>11952</CurrentFrameStart>
+			<CurrentFrameEnd>11953</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="11568">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11569">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11570">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11571">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11572">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11573">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11574">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11575">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11576">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11577">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11578">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11579">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11580">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11581">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11582">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11583">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11584">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11585">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11586">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11587">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11588">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11589">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11590">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11591">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11592">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11593">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11594">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11595">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11596">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11597">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11598">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11599">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11600">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11601">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11602">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11603">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11604">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11605">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11606">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11607">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11608">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11609">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11610">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11611">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11612">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11613">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11724">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11725">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11726">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11727">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11728">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11729">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11730">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11731">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11732">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11733">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11734">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11735">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11736">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11737">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11738">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11739">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11740">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11741">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11742">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11743">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11744">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11745">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11746">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11747">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11748">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11749">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11750">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11751">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11752">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11753">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11754">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11755">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11756">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11757">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11758">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11759">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11760">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11761">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11762">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11763">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11764">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11867">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11868">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11869">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11870">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11871">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11872">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11873">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11874">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11875">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11876">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11877">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11878">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11879">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11880">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11881">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11882">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11883">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11884">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11885">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11886">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11887">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11888">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11889">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11890">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11891">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11892">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11893">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11894">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11895">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11896">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11897">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11898">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11899">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11900">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11901">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11902">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11903">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11904">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11905">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11906">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11907">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11908">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11909">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11910">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11911">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11912">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+			<Items Frame="11913">
+				<Items xsi:type="BoolAttribute" Name="Project" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

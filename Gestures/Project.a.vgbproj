@@ -3,26 +3,26 @@
 	<ProjectFile>
 		<Header>
 			<Date>2021-02-06</Date>
-			<Time>15:13:33.1561595-05:00</Time>
+			<Time>15:15:43.8169015-05:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
 				<Type>Analysis</Type>
-				<ProjectAttribute Name="Our" Type="BOOL" />
+				<ProjectAttribute Name="Project" Type="BOOL" />
 				<ProjectAccompanyAttributes>
 					<Items Name="Confidence" Type="FLOAT" />
 					<Items Name="FirstFrameDetected" Type="BOOL" />
 				</ProjectAccompanyAttributes>
-				<DefaultTag xsi:type="BoolAttribute" Name="Our" Value="false" />
+				<DefaultTag xsi:type="BoolAttribute" Name="Project" Value="false" />
 			</Function>
-			<ID>1d2ce6bf-24e2-4cd8-84bb-f45e5760dd08</ID>
+			<ID>5e58ee27-8640-4b5e-b6b8-1a0fbc919db1</ID>
 		</Header>
 		<Project_Data>
 			<Files>
 				<Name />
 				<Content>
 					<Items>
-						<File>../Recordings/Our-Donovan1.vgbclip</File>
+						<File>../Recordings/Project-Donovan1.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>

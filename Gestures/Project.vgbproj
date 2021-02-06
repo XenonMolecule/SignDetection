@@ -3,50 +3,41 @@
 	<ProjectFile>
 		<Header>
 			<Date>2021-02-06</Date>
-			<Time>15:38:17.4520426-05:00</Time>
+			<Time>15:15:38.1768870-05:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
 				<Type>Training</Type>
-				<ProjectAttribute Name="Our" Type="BOOL" />
+				<ProjectAttribute Name="Project" Type="BOOL" />
 				<ProjectAccompanyAttributes>
 					<Items Name="Confidence" Type="FLOAT" />
 					<Items Name="FirstFrameDetected" Type="BOOL" />
 				</ProjectAccompanyAttributes>
-				<DefaultTag xsi:type="BoolAttribute" Name="Our" Value="false" />
+				<DefaultTag xsi:type="BoolAttribute" Name="Project" Value="false" />
 			</Function>
-			<ID>6697d2c5-b43a-4ee5-b814-370dd4613ff4</ID>
+			<ID>bd8396a0-e3cc-4073-93f5-20345a8f5e05</ID>
 		</Header>
 		<Project_Data>
 			<Files>
 				<Name />
 				<Content>
 					<Items>
-						<File>../Recordings/Our-Michael1.vgbclip</File>
+						<File>../Recordings/Project-Michael1.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../Recordings/Our-Michael2.vgbclip</File>
+						<File>../Recordings/Project-Michael2.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../Recordings/Our-Michael3.vgbclip</File>
+						<File>../Recordings/Project-Munim1.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../Recordings/Our-Munim1.vgbclip</File>
+						<File>../Recordings/Project-Munim2.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../Recordings/Our-Munim2.vgbclip</File>
+						<File>../Recordings/Project-Rachel1.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../Recordings/Our-Munim3.vgbclip</File>
-					</Items>
-					<Items>
-						<File>../Recordings/Our-Rachel1.vgbclip</File>
-					</Items>
-					<Items>
-						<File>../Recordings/Our-Rachel2.vgbclip</File>
-					</Items>
-					<Items>
-						<File>../Recordings/Our-Rachel3.vgbclip</File>
+						<File>../Recordings/Project-Rachel2.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>
@@ -60,10 +51,10 @@
 			<Items xsi:type="FloatAttribute" Name="Weight Of False Positives During Auto Find" Value="0.5" MaxValue="1" MinValue="0" />
 			<Items xsi:type="IntAttribute" Name="Manual Filter Params: Num Frames To Filter" Value="5" MaxValue="10" MinValue="1" />
 			<Items xsi:type="FloatAttribute" Name="Manual Filter Params: Threshold" Value="0.001" MaxValue="1" MinValue="0" />
-			<Items xsi:type="BoolAttribute" Name="Duplicate And Mirror Data During Training" Value="true" />
+			<Items xsi:type="BoolAttribute" Name="Duplicate And Mirror Data During Training" Value="false" />
 			<Items xsi:type="IntAttribute" Name="% CPU For Training" Value="95" MaxValue="100" MinValue="1" />
 			<Items xsi:type="BoolAttribute" Name="Use Hands Data" Value="false" />
-			<Items xsi:type="BoolAttribute" Name="Ignore Left Arm" Value="true" />
+			<Items xsi:type="BoolAttribute" Name="Ignore Left Arm" Value="false" />
 			<Items xsi:type="BoolAttribute" Name="Ignore Right Arm" Value="false" />
 			<Items xsi:type="BoolAttribute" Name="Ignore Lower Body" Value="true" />
 		</Attributes>
