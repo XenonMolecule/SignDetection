@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2021-02-06</Date>
+			<Time>05:32:00.2100438-05:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Arrogant1.xef</Clip>
+			<StartFrame>1591</StartFrame>
+			<EndFrame>2223</EndFrame>
+			<ID>05bcca1f-fe82-4b7c-b153-9cfee90d8dda</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>2222</CurrentFrameStart>
+			<CurrentFrameEnd>2223</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="1708">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1709">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1710">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1711">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1712">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1713">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1714">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1715">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1716">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1717">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1718">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1719">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1720">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1721">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1722">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1723">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1724">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1725">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1726">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1727">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1728">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1729">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1730">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1731">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1732">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1733">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1734">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1735">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1736">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1737">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1738">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1739">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1740">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1741">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1742">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1743">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1744">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1745">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1746">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1747">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1748">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1749">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1750">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1751">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1752">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1753">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1754">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1755">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1756">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1878">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1879">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1880">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1881">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1882">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1883">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1884">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1885">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1886">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1887">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1888">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1889">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1890">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1891">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1892">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1893">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1894">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1895">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1896">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1897">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1898">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1899">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1900">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1901">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1902">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1903">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1904">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1905">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1906">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1907">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1908">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1909">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1910">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1911">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1912">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1913">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1914">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1915">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1916">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1917">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1918">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1919">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1920">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1921">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1922">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1923">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1924">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1925">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="1926">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2041">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2042">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2043">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2044">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2045">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2046">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2047">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2048">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2049">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2050">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2051">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2052">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2053">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2054">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2055">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2056">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2057">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2058">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2059">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2060">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2061">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2062">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2063">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2064">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2065">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2066">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2067">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2068">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2069">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2070">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2071">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2072">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2073">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2074">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2075">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2076">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2077">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2078">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2079">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2080">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2081">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2082">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2083">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2084">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+			<Items Frame="2085">
+				<Items xsi:type="BoolAttribute" Name="Arrogant" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2021-02-06</Date>
+			<Time>05:46:54.8443686-05:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>ArrogantTest.xef</Clip>
+			<StartFrame>7199</StartFrame>
+			<EndFrame>7690</EndFrame>
+			<ID>145c0032-5a70-4ef7-a208-68cf9992ce4c</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>7625</CurrentFrameStart>
+			<CurrentFrameEnd>7626</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes />
+	</ClipFile>
+</GestureBuilderFile>
