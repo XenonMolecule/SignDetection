@@ -8,6 +8,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
 {
     using System;
     using System.Collections.Generic;
+    using System.Diagnostics;
     using Microsoft.Kinect;
     using Microsoft.Kinect.VisualGestureBuilder;
 
@@ -65,14 +66,17 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
             {
                 // we could load all available gestures in the database with a call to vgbFrameSource.AddGestures(database.AvailableGestures), 
                 // but for this program, we only want to track one discrete gesture from the database, so we'll load it by name
-                foreach (Gesture gesture in database.AvailableGestures)
-                {
-                    if (gesture.Name.Equals(this.seatedGestureName))
-                    {
-                        this.vgbFrameSource.AddGesture(gesture);
-                    }
-                }
+                // foreach (Gesture gesture in database.AvailableGestures)
+                // {
+                //if (gesture.Name.Equals(this.seatedGestureName))
+                //{
+                //     this.vgbFrameSource.AddGesture(gesture);
+                //}
+                // }
+                this.vgbFrameSource.AddGestures(database.AvailableGestures);
             }
+
+            // ConsoleManager.Show();
         }
 
         /// <summary> Gets the GestureResultView object which stores the detector results for display in the UI </summary>
@@ -171,10 +175,13 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                         // we only have one gesture in this source object, but you can get multiple gestures
                         foreach (Gesture gesture in this.vgbFrameSource.Gestures)
                         {
-                            if (gesture.Name.Equals(this.seatedGestureName) && gesture.GestureType == GestureType.Discrete)
+                            if (gesture.GestureType == GestureType.Discrete)
                             {
                                 DiscreteGestureResult result = null;
                                 discreteResults.TryGetValue(gesture, out result);
+
+                                //Trace.WriteLine("text");
+                                Console.WriteLine(gesture.Name + " " + result.Confidence);
 
                                 if (result != null)
                                 {

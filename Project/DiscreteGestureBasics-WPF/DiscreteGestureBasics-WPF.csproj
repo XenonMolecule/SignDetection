@@ -7,7 +7,7 @@
     <ProjectGuid>{A4E3A730-C4EE-420E-B599-E7FBF9078C8C}</ProjectGuid>
     <StartupObject>Microsoft.Samples.Kinect.DiscreteGestureBasics.App</StartupObject>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Microsoft.Samples.Kinect.DiscreteGestureBasics</RootNamespace>
     <AssemblyName>DiscreteGestureBasics-WPF</AssemblyName>
@@ -98,6 +98,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ConsoleManager.cs" />
     <Compile Include="GestureDetector.cs" />
     <Compile Include="GestureResultView.cs" />
     <Compile Include="KinectBodyView.cs" />
@@ -125,6 +126,7 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <None Include="Database\ASLDetector.gbd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
