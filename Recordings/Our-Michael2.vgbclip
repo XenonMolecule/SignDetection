@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2021-02-06</Date>
+			<Time>14:27:52.1919698-05:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Our-Michael2.xef</Clip>
+			<StartFrame>269</StartFrame>
+			<EndFrame>1065</EndFrame>
+			<ID>89a65ce9-fcf3-405f-82b4-65ebd2cac070</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>1012</CurrentFrameStart>
+			<CurrentFrameEnd>1013</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="560">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="561">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="562">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="563">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="564">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="565">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="566">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="567">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="568">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="569">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="570">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="571">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="572">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="573">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="574">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="575">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="576">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="577">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="578">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="579">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="580">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="581">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="582">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="583">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="584">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="585">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="586">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="587">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="588">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="589">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="590">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="591">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="592">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="593">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="594">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="595">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="596">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="597">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="598">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="599">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="600">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="601">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="602">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="746">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="747">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="748">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="749">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="750">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="751">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="752">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="753">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="754">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="755">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="756">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="757">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="758">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="759">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="760">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="761">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="762">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="763">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="764">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="765">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="766">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="767">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="768">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="769">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="770">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="771">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="772">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="773">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="774">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="775">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="776">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="777">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="778">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="779">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="780">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="781">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="782">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="885">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="886">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="887">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="888">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="889">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="890">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="891">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="892">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="893">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="894">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="895">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="896">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="897">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="898">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="899">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="900">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="901">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="902">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="903">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="904">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="905">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="906">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="907">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="908">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="909">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="910">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="911">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="912">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="913">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="914">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="915">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="916">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="917">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="918">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="919">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="920">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="921">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="922">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="923">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="924">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="925">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="926">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="927">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="928">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="929">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+			<Items Frame="930">
+				<Items xsi:type="BoolAttribute" Name="Our" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
