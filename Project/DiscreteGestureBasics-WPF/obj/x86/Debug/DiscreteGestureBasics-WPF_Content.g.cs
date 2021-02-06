@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("database/asl%20detector.gbd")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("database/seated.gbd")]
 
 

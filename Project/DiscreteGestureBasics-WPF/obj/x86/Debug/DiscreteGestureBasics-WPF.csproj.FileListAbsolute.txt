@@ -21,3 +21,4 @@ C:\Users\micha\OneDrive\Documents\GitHub\SignDetection\Project\DiscreteGestureBa
 C:\Users\micha\OneDrive\Documents\GitHub\SignDetection\Project\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.CopyComplete
 C:\Users\micha\OneDrive\Documents\GitHub\SignDetection\Project\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
 C:\Users\micha\OneDrive\Documents\GitHub\SignDetection\Project\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\SignDetection\Project\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\ASL Detector.gbd

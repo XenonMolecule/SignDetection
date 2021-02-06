@@ -19,7 +19,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
     public class GestureDetector : IDisposable
     {
         /// <summary> Path to the gesture database that was trained with VGB </summary>
-        private readonly string gestureDatabase = @"Database\Seated.gbd";
+        private readonly string gestureDatabase = @"Database\ASL Detector.gbd";
 
         /// <summary> Name of the discrete gesture in the database that we want to track </summary>
         private readonly string seatedGestureName = "Seated";
