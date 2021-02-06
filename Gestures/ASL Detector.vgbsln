@@ -3,7 +3,7 @@
 	<SolutionFile>
 		<Header>
 			<Date>2021-02-06</Date>
-			<Time>15:15:29.6144417-05:00</Time>
+			<Time>15:56:07.9764689-05:00</Time>
 			<Version>1</Version>
 			<Type>Solution</Type>
 			<ID>232aedd7-b429-4681-a691-3fa3c62124b7</ID>
@@ -29,6 +29,12 @@
 					</Items>
 					<Items>
 						<File>Project.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>This.vgbproj</File>
+					</Items>
+					<Items>
+						<File>This.a.vgbproj</File>
 					</Items>
 				</Content>
 			</Files>
