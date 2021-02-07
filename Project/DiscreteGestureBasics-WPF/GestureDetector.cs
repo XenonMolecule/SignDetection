@@ -182,14 +182,11 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                             {
                                 DiscreteGestureResult result = null;
                                 discreteResults.TryGetValue(gesture, out result);
-
-                                //Trace.WriteLine("text");
-                                Console.WriteLine(gesture.Name + " " + result.Confidence);
                                 
 
                                 if (result != null)
                                 {
-                                    if (result.Confidence > highestConfidence)
+                                    if (result.Confidence > highestConfidence && result.Confidence > 0.2)
                                     {
                                         highestConfidence = result.Confidence;
                                         resultDetected = result.Detected;
@@ -199,7 +196,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                             }
                         }
                         // update the GestureResultView object with new gesture result values
-                        this.GestureResultView.UpdateGestureResult(true, resultDetected, highestConfidence, probableSign);
+                        this.GestureResultView.UpdateGestureResult(true, resultDetected, highestConfidence, probableSign, true);
                     }
                 }
             }
@@ -213,7 +210,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
         private void Source_TrackingIdLost(object sender, TrackingIdLostEventArgs e)
         {
             // update the GestureResultView object to show the 'Not Tracked' image in the UI
-            this.GestureResultView.UpdateGestureResult(false, false, 0.0f, "none");
+            this.GestureResultView.UpdateGestureResult(false, false, 0.0f, "none", false);
         }
     }
 }

@@ -11,7 +11,7 @@
         <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2" />
         
         <DataTemplate DataType="{x:Type local:GestureResultView}">
-            <Grid Width="Auto" Margin="5" Background="{Binding BodyColor}">
+            <Grid Width="Auto" Margin="5" Background="{Binding BodyColor}" Visibility="{Binding IsVisible}">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto"/>
                     <RowDefinition />

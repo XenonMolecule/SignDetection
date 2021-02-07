@@ -44,6 +44,8 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
 
         private String sign = "none";
 
+        private bool isVisible = false;
+
         /// <summary> Image to display in UI which corresponds to tracking/detection state </summary>
         private ImageSource imageSource = null;
         
@@ -151,6 +153,23 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
             }
         }
 
+        public bool IsVisible
+        {
+            get
+            {
+                return this.isVisible;
+            }
+
+            private set
+            {
+                if (this.isVisible != value)
+                {
+                    this.isVisible = value;
+                    this.NotifyPropertyChanged();
+                }
+            }
+        }
+
         public String Sign
         {
             get
@@ -162,6 +181,9 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
             {
                 if (!this.sign.Equals(value))
                 {
+                    if (value != "none") {
+                        Console.WriteLine(value);
+                    }
                     this.sign = value;
                     this.NotifyPropertyChanged();
                 }
@@ -214,11 +236,11 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
         /// <param name="isBodyTrackingIdValid">True, if the body associated with the GestureResultView object is still being tracked</param>
         /// <param name="isGestureDetected">True, if the discrete gesture is currently detected for the associated body</param>
         /// <param name="detectionConfidence">Confidence value for detection of the discrete gesture</param>
-        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence, String signName)
+        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence, String signName, bool visible)
         {
             this.IsTracked = isBodyTrackingIdValid;
             this.Confidence = 0.0f;
-            this.Sign = "none";
+            this.IsVisible = visible;
 
             if (!this.IsTracked)
             {
@@ -240,6 +262,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                 else
                 {
                     this.ImageSource = this.notSeatedImage;
+                    this.Sign = "none";
                 }
             }
         }
