@@ -1,0 +1,1294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2021-02-07</Date>
+			<Time>03:50:04.7673888-05:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Goodbye-Michael1.xef</Clip>
+			<StartFrame>1062</StartFrame>
+			<EndFrame>2197</EndFrame>
+			<ID>ae16c6d0-2b3d-4746-9018-3cbdf377048b</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>1235</CurrentFrameStart>
+			<CurrentFrameEnd>1236</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="1180">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1181">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1182">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1183">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1184">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1185">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1186">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1187">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1188">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1189">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1190">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1191">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1192">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1193">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1194">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1195">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1196">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1197">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1198">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1199">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1200">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1201">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1202">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1203">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1204">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1205">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1206">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1207">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1208">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1209">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1210">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1211">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1212">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1213">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1214">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1215">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1216">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1217">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1218">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1219">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1220">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1221">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1222">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1223">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1224">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1225">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1226">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1227">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1228">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1229">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1230">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1231">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1232">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1233">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1234">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1235">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1236">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1237">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1238">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1239">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1240">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1241">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1242">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1243">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1244">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1245">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1246">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1247">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1248">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1249">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1250">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1251">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1252">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1253">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1254">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1255">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1256">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1257">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1258">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1259">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1260">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1261">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1262">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1263">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1322">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1323">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1324">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1325">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1326">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1327">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1328">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1329">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1330">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1331">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1332">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1333">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1334">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1335">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1336">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1337">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1338">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1339">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1340">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1341">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1342">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1343">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1344">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1345">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1346">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1347">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1348">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1349">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1350">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1351">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1352">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1353">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1354">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1355">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1356">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1357">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1358">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1359">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1360">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1361">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1362">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1363">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1364">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1365">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1366">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1367">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1368">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1369">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1370">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1371">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1372">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1373">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1374">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1375">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1376">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1377">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1378">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1379">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1380">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1381">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1382">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1383">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1384">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1385">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1386">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1387">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1388">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1389">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1390">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1391">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1392">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1393">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1394">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1395">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1396">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1397">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1398">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1399">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1400">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1401">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1402">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1403">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1404">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1405">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1406">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1407">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1408">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1471">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1472">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1473">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1474">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1475">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1476">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1477">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1478">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1479">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1480">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1481">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1482">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1483">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1484">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1485">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1486">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1487">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1488">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1489">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1490">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1491">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1492">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1493">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1494">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1495">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1496">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1497">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1498">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1499">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1500">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1501">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1502">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1503">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1504">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1505">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1506">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1507">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1508">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1509">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1510">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1511">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1512">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1513">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1514">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1515">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1516">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1517">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1518">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1519">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1520">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1521">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1522">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1523">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1524">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1525">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1526">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1527">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1528">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1529">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1530">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1531">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1532">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1533">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1534">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1535">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1536">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1537">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1538">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1539">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1540">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1541">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1542">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1543">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1544">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1545">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1546">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1547">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1548">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1549">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1550">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1551">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1866">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1867">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1868">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1869">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1870">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1871">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1872">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1873">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1874">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1875">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1876">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1877">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1878">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1879">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1880">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1881">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1882">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1883">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1884">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1885">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1886">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1887">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1888">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1889">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1890">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1891">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1892">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1893">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1894">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1895">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1896">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1897">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1898">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1899">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1900">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1901">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1902">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1903">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1904">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1905">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1906">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1907">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1908">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1909">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1910">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1911">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1912">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1913">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1914">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1915">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1916">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1917">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1918">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1919">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1920">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1921">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1922">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1923">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1924">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1925">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1926">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1927">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1928">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1929">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1930">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1931">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1932">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1933">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1934">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1935">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1936">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1937">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1938">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1939">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1940">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1941">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1942">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1943">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1944">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1945">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1946">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1947">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="1948">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2017">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2018">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2019">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2020">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2021">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2022">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2023">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2024">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2025">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2026">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2027">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2028">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2029">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2030">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2031">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2032">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2033">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2034">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2035">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2036">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2037">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2038">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2039">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2040">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2041">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2042">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2043">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2044">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2045">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2046">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2047">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2048">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2049">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2050">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2051">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2052">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2053">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2054">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2055">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2056">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2057">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2058">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2059">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2060">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2061">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2062">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2063">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2064">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2065">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2066">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2067">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2068">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2069">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2070">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2071">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2072">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2073">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2074">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2075">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2076">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2077">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2078">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2079">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2080">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2081">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2082">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2083">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2084">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2085">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2086">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2087">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2088">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2089">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2090">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2091">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2092">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2093">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2094">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2095">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2096">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2097">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2098">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2099">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2100">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2101">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+			<Items Frame="2102">
+				<Items xsi:type="BoolAttribute" Name="Goodbye" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
