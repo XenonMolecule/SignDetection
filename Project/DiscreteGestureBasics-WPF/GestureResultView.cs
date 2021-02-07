@@ -11,6 +11,8 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
     using System.Runtime.CompilerServices;
     using System.Windows.Media;
     using System.Windows.Media.Imaging;
+    using System.Speech;
+    using System.Speech.Synthesis;
 
     /// <summary>
     /// Stores discrete gesture results for the GestureDetector.
@@ -46,6 +48,8 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
 
         private bool isVisible = false;
 
+        private SpeechSynthesizer speechSynthesizerObj = new SpeechSynthesizer();
+
         /// <summary> Image to display in UI which corresponds to tracking/detection state </summary>
         private ImageSource imageSource = null;
         
@@ -67,6 +71,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
             this.Confidence = confidence;
             this.ImageSource = this.notTrackedImage;
         }
+
 
         /// <summary>
         /// INotifyPropertyChangedPropertyChanged event to allow window controls to bind to changeable data
@@ -183,10 +188,27 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                 {
                     if (value != "none") {
                         Console.WriteLine(value);
+                        speechSynthesizerObj = new SpeechSynthesizer();
+                        SpeechSynthesizerObj.SpeakAsync(value);
                     }
                     this.sign = value;
                     this.NotifyPropertyChanged();
                 }
+            }
+        }
+
+        public SpeechSynthesizer SpeechSynthesizerObj
+        {
+            get
+            {
+                return this.speechSynthesizerObj;
+            }
+
+            private set
+            {
+                speechSynthesizerObj.Dispose();
+                this.speechSynthesizerObj = value;
+                this.NotifyPropertyChanged();
             }
         }
 
