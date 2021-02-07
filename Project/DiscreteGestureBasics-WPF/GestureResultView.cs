@@ -42,6 +42,8 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
         /// <summary> True, if the discrete gesture is currently being detected </summary>
         private bool detected = false;
 
+        private String sign = "none";
+
         /// <summary> Image to display in UI which corresponds to tracking/detection state </summary>
         private ImageSource imageSource = null;
         
@@ -149,6 +151,23 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
             }
         }
 
+        public String Sign
+        {
+            get
+            {
+                return this.sign;
+            }
+
+            private set
+            {
+                if (!this.sign.Equals(value))
+                {
+                    this.sign = value;
+                    this.NotifyPropertyChanged();
+                }
+            }
+        }
+
         /// <summary> 
         /// Gets a float value which indicates the detector's confidence that the gesture is occurring for the associated body 
         /// </summary>
@@ -195,10 +214,11 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
         /// <param name="isBodyTrackingIdValid">True, if the body associated with the GestureResultView object is still being tracked</param>
         /// <param name="isGestureDetected">True, if the discrete gesture is currently detected for the associated body</param>
         /// <param name="detectionConfidence">Confidence value for detection of the discrete gesture</param>
-        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence)
+        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence, String signName)
         {
             this.IsTracked = isBodyTrackingIdValid;
             this.Confidence = 0.0f;
+            this.Sign = "none";
 
             if (!this.IsTracked)
             {
@@ -214,6 +234,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
                 if (this.Detected)
                 {
                     this.Confidence = detectionConfidence;
+                    this.Sign = signName;
                     this.ImageSource = this.seatedImage;
                 }
                 else

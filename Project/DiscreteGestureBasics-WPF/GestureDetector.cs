@@ -172,6 +172,9 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
 
                     if (discreteResults != null)
                     {
+                        float highestConfidence = 0.0f;
+                        bool resultDetected = false;
+                        String probableSign = "none";
                         // we only have one gesture in this source object, but you can get multiple gestures
                         foreach (Gesture gesture in this.vgbFrameSource.Gestures)
                         {
@@ -182,14 +185,21 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
 
                                 //Trace.WriteLine("text");
                                 Console.WriteLine(gesture.Name + " " + result.Confidence);
+                                
 
                                 if (result != null)
                                 {
-                                    // update the GestureResultView object with new gesture result values
-                                    this.GestureResultView.UpdateGestureResult(true, result.Detected, result.Confidence);
+                                    if (result.Confidence > highestConfidence)
+                                    {
+                                        highestConfidence = result.Confidence;
+                                        resultDetected = result.Detected;
+                                        probableSign = gesture.Name;
+                                    }
                                 }
                             }
                         }
+                        // update the GestureResultView object with new gesture result values
+                        this.GestureResultView.UpdateGestureResult(true, resultDetected, highestConfidence, probableSign);
                     }
                 }
             }
@@ -203,7 +213,7 @@ namespace Microsoft.Samples.Kinect.DiscreteGestureBasics
         private void Source_TrackingIdLost(object sender, TrackingIdLostEventArgs e)
         {
             // update the GestureResultView object to show the 'Not Tracked' image in the UI
-            this.GestureResultView.UpdateGestureResult(false, false, 0.0f);
+            this.GestureResultView.UpdateGestureResult(false, false, 0.0f, "none");
         }
     }
 }
